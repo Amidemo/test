@@ -1,1 +1,1 @@
-print('baka')
+print('suka-blyat1')
