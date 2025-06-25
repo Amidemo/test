@@ -1,1 +1,2 @@
-print('how')
+print('how', 'that')
+
